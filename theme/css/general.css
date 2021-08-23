@@ -191,6 +191,7 @@ blockquote {
     justify-items: stretch;
     justify-content: flex-start;
     align-items: center;
+    z-index: 101;
 }
 
 .page-header img {
