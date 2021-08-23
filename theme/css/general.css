@@ -176,6 +176,29 @@ blockquote {
     font-weight: bold;
 }
 
-.result-no-output {
-    font-style: italic;
+.page-header-w {
+    width: 9rem;
 }
+
+.page-header-text {
+    font-size: 3.25rem;
+}
+
+.page-header {
+    position: relative;
+    padding: 2rem;
+    display: flex;
+    justify-items: stretch;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.page-header img {
+    display: inline;
+    margin-inline-end: 2rem;
+    padding-inline-end: 2rem;
+    border-inline-end: 1px solid var(--border-light-color);
+    padding-top: 10px;
+}
+
+
