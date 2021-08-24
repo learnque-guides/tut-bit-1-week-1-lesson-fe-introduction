@@ -177,16 +177,16 @@ blockquote {
 }
 
 .page-header-w {
-    width: 9rem;
+    width: 5rem;
 }
 
 .page-header-text {
-    font-size: 3.25rem;
+    font-size: 2.25rem;
 }
 
 .page-header {
     position: relative;
-    padding: 2rem;
+    padding: 1rem;
     display: flex;
     justify-items: stretch;
     justify-content: flex-start;
@@ -201,5 +201,3 @@ blockquote {
     border-inline-end: 1px solid var(--border-light-color);
     padding-top: 10px;
 }
-
-
