@@ -17,3 +17,5 @@
 ```html
 <tag attribute-name="attribute-value">content...</tag>
 ```
+---
+![Elementai, žymos, atributai](image/html_elements_tags_attributes.png)
