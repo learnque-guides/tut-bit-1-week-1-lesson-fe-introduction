@@ -13,3 +13,4 @@
 - [head](./head.md)
 - [body](./body.md)
 - [Užduotis](./exercise-1.md)
+- [Komentarai](./comments.md)
