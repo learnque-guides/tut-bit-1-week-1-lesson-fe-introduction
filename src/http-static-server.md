@@ -13,10 +13,14 @@
   
 ```html
 <!DOCTYPE html>
-<head></head>
-<body>
-    Hello world!!!
-</body>
+<html>
+  <head>
+    <title>Hello world!!!</title>
+  </head>
+  <body>
+      Hello world!!!
+  </body>
+<html>
 ```
 * Paleiskite serverį (pvz:. serve.exe) savo direktorijoje (pvz:. C:\www)
 * Atidarykite naršyklę [http://localhost:8080](http://localhost:8080)
