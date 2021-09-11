@@ -1,5 +1,9 @@
 # Tags ir atributai
 
+![HTML anatomija](image/grumpy_cat.png)
+
+---
+
 * HTML susideda iš žymių (ang. tags), parašytų gana paprastu formatu:
 
 ```html
